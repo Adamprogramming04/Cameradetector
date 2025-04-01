@@ -56,3 +56,7 @@ Press `q` to **exit** the program.
 ## License
 This project is open-source and available for modification and use under the MIT License.
 
+## TODO
+- Add more objects using YOLO (library).
+- Make the Opencv more advanced showing people emotions etc.
+- Using Librosa to hear sounds and connect the sounds to how people feel about it. 
