@@ -1,4 +1,4 @@
-#Camera Detetector
+##Camera Detetector
 
 ## Overview
 This project utilizes **OpenCV** and **MediaPipe** to detect hand gestures in real-time using a webcam. It can identify:
